@@ -1,0 +1,17 @@
+Para definir uma variável: $
+    ("" - String)
+    $nome = "helder"
+    $idade = 29
+
+$a = 5i 
+$b = 5.0i
+$c = $a == $bi (saber se são iguais)
+$d = $a === $bi (saber se são iguais ou do mesmo tipo)
+
+Condicionais
+    if, else e else if
+
+Laços
+    for ($i = 0; $i<10; $i++){}
+    foreach ($lista as $valor){}
+    while (true){}
